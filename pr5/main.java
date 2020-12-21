@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class main {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
-        System.out.print("Choice task(10, 11, 12): ");
+        System.out.print("Choice task(10 11 12): ");
         int choice =  s1.nextInt();
         if (choice == 9) {
             int a, b, val = 0;
